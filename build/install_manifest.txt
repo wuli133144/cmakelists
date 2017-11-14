@@ -1,0 +1,2 @@
+/home/jackwu/cmake/t5/cmakelists/build/bin/run.sh
+/home/jackwu/cmake/t5/cmakelists/build/bin/run.sh

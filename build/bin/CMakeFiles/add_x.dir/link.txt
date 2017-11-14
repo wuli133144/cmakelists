@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/add_x.dir/main.o CMakeFiles/add_x.dir/utils.o  -o add_x -rdynamic 
